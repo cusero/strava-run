@@ -1,0 +1,5 @@
+# Idea / Webstorm
+/.idea
+
+#Dependencies directory
+/node_modules
